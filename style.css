@@ -1,0 +1,31 @@
+* {
+    font-family: "Time New Roman", sans-serif;
+}
+a {
+    margin-right: 20px;
+
+}
+
+.navbar {
+    background-color: burlywood;
+    height: 50px;
+    width: auto;
+    font-size: larger;
+}
+ul,
+p,
+ol {
+    font-size: large;
+    border: 2px solid #000;
+    background-color: aliceblue;
+}
+
+.main {
+    background-color: blanchedalmond;
+    height: auto;
+    font-weight: auto;
+}
+h1 {
+    text-align: center;
+    background-color: rgb(255, 196, 0);
+}
